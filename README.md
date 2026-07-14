@@ -51,10 +51,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=velvet-software-ux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velvet-software-ux&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=velvet-software-ux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7" alt="" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velvet-software-ux&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="" />
 
-<img src="https://streak-stats.demolab.com?user=velvet-software-ux&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=velvet-software-ux&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="" />
 
 </div>
 
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=velvet-software-ux&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=velvet-software-ux&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="" />
 
 </div>
 
